@@ -2,7 +2,7 @@
 
 <?php 
 
-$serverName     = 'servertestsito.database.windows.net'; 
+$serverName     = 'tcp:servertestsito.database.windows.net'; 
 
 $connectionInfo=array("Database" => "sito")
 
