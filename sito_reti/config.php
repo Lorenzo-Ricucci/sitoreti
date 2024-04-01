@@ -2,7 +2,7 @@
 
 <?php 
 
-$serverName     = 'servertestsito.database.windows.net'; 
+$serverName     = 'DESKTOP-SESI4RK\SQLEXPRESS'; 
 
 $connectionInfo=array("Database" => "sito")
 
